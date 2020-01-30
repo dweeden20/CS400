@@ -17,7 +17,7 @@ const alphabetize = x => {
         }
     }
     return arr.join('');
-}
+};
 
-console.log('Test 1 on: supercalifragilisticexpialidocious', '\n', alphabetize('supercalifragilisticexpialidocious'))
-console.log('Test 2 on: the quick brown fox jumped over the lazy dog', '\n', alphabetize('the quick brown fox jumped over the lazy dog'))
+console.log('Test 1 on: supercalifragilisticexpialidocious', '\n', alphabetize('supercalifragilisticexpialidocious'));
+console.log('Test 2 on: the quick brown fox jumped over the lazy dog', '\n', alphabetize('the quick brown fox jumped over the lazy dog'));
