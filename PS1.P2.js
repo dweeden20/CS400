@@ -4,9 +4,7 @@
 
 
 
-const evaluate = (x) => {
-    return (x) => eval(x);
-};
+const evaluate = (x) => (ans) => eval(ans);
 
 const expression = '8%3';
 let operator = evaluate(expression);
