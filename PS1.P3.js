@@ -5,39 +5,10 @@
     based on which function is called the main function should produce the matching result
  */
 
-const splits_c = str => {
-    let arr = str.split('');
-    let tmp = '';
-    let ans = [];
-    for (let y = 0; y < arr.length; y++) {
-        if (arr[y] === 'c') {
-            ans.push(tmp);
-            tmp = '';
-            tmp += arr[y];
-        }
-        else {
-            tmp += arr[y];
-        }
-    }
-    ans.push(tmp);
-    return ans;
-};
+ const splits_c = (str) => str.replace(/c/g, '*c').split('*');
 
-
-const toUpper_A = str => {
-    let arr = str.split('');
-    let ans = '';
-    let count =0;
-    for (let y = 0; y < arr.length; y++) {
-        if (arr[y] === 'a') {
-            ans += 'A';
-            count++;
-        }
-        else {
-            ans += arr[y];
-        }
-    }
-    return {orginalString: str, modifiedString: ans, numberReplaced: count, length: ans.length};
+const toUpper_A = (str) => {
+    return {originalString: str, modifiedString: str.replace(/a/g, 'A'), numerReplaced: (str.split('a').length - 1), length: str.length};
 };
 
 const main = (str, callback) => {

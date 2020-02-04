@@ -1,10 +1,10 @@
 /*
-
+    Takes a string input and evaluates
  */
 
 
 
-const evaluate = x => {
+const evaluate = (x) => {
     return (x) => eval(x);
 };
 
