@@ -1,10 +1,28 @@
 /*
-    Takes a string input and evaluates
+    Takes a string input and evaluates it to its mathmatical equivalent
  */
 
 
 
-const evaluate = (x) => (ans) => eval(ans);
+const evaluate = (x) => {
+    let left = Number(x.charAt(0));
+    let right = Number(x.charAt(2));
+    let opt = x.charAt(1);
+    switch (opt) {
+        case '+':
+            return (opt) => left + right;
+       case '-':
+            return (opt) => left - right;
+        case '*':
+            return (opt) => left * right;
+        case '/':
+            return (opt) => left / right;
+        case '%':
+            return (opt) => left % right;
+    }
+
+}
+
 
 const expression = '8%3';
 let operator = evaluate(expression);
