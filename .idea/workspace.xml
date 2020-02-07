@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7ab203-7ec2-41b7-9e75-a8eaa8025a9a" name="Default Changelist" comment="Commit on PS1 for Problem 1 of the problem set" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7cs5ca57Sd3Kqj7rxXWsmGfuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Node.js.PS1.P1.js">
+    <configuration name="PS1.P1.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1.P1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.P2.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1.P2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.P3.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1.P3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-node="node">
+      <method v="2" />
+    </configuration>
+    <configuration name="loader.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="internal/modules/cjs/loader.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.PS1.P2.js" />
+        <item itemvalue="Node.js.loader.js" />
+        <item itemvalue="Node.js.PS1.P3.js" />
+        <item itemvalue="Node.js.PS1.P1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7ab203-7ec2-41b7-9e75-a8eaa8025a9a" name="Default Changelist" comment="" />
+      <created>1580400776456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580400776456</updated>
+      <workItem from="1580400778837" duration="13006000" />
+      <workItem from="1580491131985" duration="1636000" />
+      <workItem from="1580825989770" duration="23000" />
+      <workItem from="1580847886543" duration="483000" />
+      <workItem from="1580848930616" duration="26000" />
+      <workItem from="1580849260136" duration="1960000" />
+      <workItem from="1580852536002" duration="253000" />
+      <workItem from="1580929646957" duration="3682000" />
+      <workItem from="1581119404178" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit on PS1 for Problem 1 of the problem set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit on PS1 for Problem 1 of the problem set" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580402152856">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="164" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1580402152856" />
+    <state x="428" y="142" key="#loader.js" timestamp="1580932375046">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="428" y="142" key="#loader.js/0.23.1440.877@0.23.1440.877" timestamp="1580932375046" />
+    <state x="223" y="67" key="CommitChangelistDialog2" timestamp="1580403616574">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="223" y="67" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580403616574" />
+    <state width="1418" height="285" key="GridCell.Tab.0.bottom" timestamp="1580933672041">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580417839121" />
+    <state width="1418" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580933672041" />
+    <state width="1418" height="285" key="GridCell.Tab.0.center" timestamp="1580933672040">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="217" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580417839120" />
+    <state width="1418" height="285" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580933672040" />
+    <state width="1418" height="285" key="GridCell.Tab.0.left" timestamp="1580933672040">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="217" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580417839120" />
+    <state width="1418" height="285" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580933672040" />
+    <state width="1418" height="285" key="GridCell.Tab.0.right" timestamp="1580933672040">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="217" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580417839121" />
+    <state width="1418" height="285" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580933672040" />
+    <state width="1418" height="285" key="GridCell.Tab.1.bottom" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.1.center" timestamp="1580933672041">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1580933672041" />
+    <state width="1418" height="285" key="GridCell.Tab.1.left" timestamp="1580933672041">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1580933672041" />
+    <state width="1418" height="285" key="GridCell.Tab.1.right" timestamp="1580933672041">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1580933672041" />
+    <state width="1418" height="285" key="GridCell.Tab.2.bottom" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.2.center" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.2.left" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.2.right" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.3.bottom" timestamp="1580933672043">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580933672043" />
+    <state width="1418" height="285" key="GridCell.Tab.3.center" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.3.left" timestamp="1580933672042">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1580933672042" />
+    <state width="1418" height="285" key="GridCell.Tab.3.right" timestamp="1580933672043">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1418" height="285" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1580933672043" />
+    <state x="407" y="202" key="VcsDiffUtil.ChangesDialog" timestamp="1581119791201">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="407" y="202" key="VcsDiffUtil.ChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1581119791201" />
+    <state x="491" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580930222339">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="491" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1580930222339" />
+    <state x="271" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580932330451">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="271" y="204" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.877@0.23.1440.877" timestamp="1580932330451" />
+    <state x="365" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1580932291989">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="365" y="206" width="670" height="694" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580412926141" />
+    <state x="365" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1580932291989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
