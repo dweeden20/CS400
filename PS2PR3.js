@@ -3,12 +3,12 @@
     And a generator that calls the cube function on each element of an array
  */
 
-let cube = (x) => (x*x*x);
+const cube = (x) => (x*x*x);
 
 
 const array_handle = (y) => y.map(cube);
 
-let o = [1, 2, 3, 4, 5, 6, 7];
+let test = [1, 2, 3, 4, 5, 6, 7];
 
-console.log("running array_handle on array 'o' ", array_handle(o));
+console.log("running array_handle on array 'test: 1, 2, 3, 4, 5, 6, 7' \n", array_handle(test));
 
