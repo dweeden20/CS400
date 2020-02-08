@@ -96,11 +96,23 @@
       <workItem from="1580852536002" duration="253000" />
       <workItem from="1580929646957" duration="3682000" />
       <workItem from="1581119404178" duration="49000" />
+      <workItem from="1581119634087" duration="319000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit on PS1 for Problem 1 of the problem set" />
@@ -191,6 +203,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="407" y="202" key="VcsDiffUtil.ChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1581119791201" />
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581119905846">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1581119905846" />
     <state x="491" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580930222339">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
