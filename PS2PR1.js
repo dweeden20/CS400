@@ -6,22 +6,24 @@
     The second generator uses the first to obtain the next number in the sequence, rejecting
     it if it is odd and asking for the next. Once an even Fibonacci number is obtained, it is emitted.
  */
+function* fibonacci(n) {
+    const infinite = !n && n !== 0;
+    let current = 0;
+    let next = 1;
 
-
-function* Fib (x = 0)  {
-    let [val1, val2, result] = [x, x-1, 0];
-    while (true) {
-        result = Math.abs(val1 + val2);
-        val1 = val2;
-        val2 = result;
-        yield result;
+    while (infinite || n--) {
+        yield current;
+        [current, next] = [next, current + next];
     }
 }
 
-myFibs = Fib(0) //not really fib(4), just shows passing param
-let count = 5;
-while (count --> 0) {
-    console.log(myFibs.next().value)
+function* Fib ()  {
+    let val1 = 0;
+    let val2 = 1;
+    while (val1 < 1000) {
+        yield val1;
+        [val1, val2] = [val2, val1+ val2];
+    }
 }
 
 function* Fib_even (x) {
@@ -29,21 +31,38 @@ function* Fib_even (x) {
     let count = 0;
     while (count < 6) {
         if (is_even === 0) {
-            count++;
+            console.log(count);
             yield x;
-        } else {
-
+            [count] = [count + 1];
+        }
+        else {
+            yield;
         }
     }
 
 };
-net = Fib(0);
-let c = 7;
-while (c --> 0) {
-    console.log(net.next().value)
+/*for (fib of fibonacci(20)) {
+    cat = Fib_even(fib);
+    console.log(cat.next().value)
+
+} */
+
+net = Fib();
+for (fibs of Fib()) {
+    cat = Fib_even(fibs);
+    console.log(cat.next().value)
+    //console.log(net.next().value);
+
 }
-let test = Fib_even();
-console.log(test.next().value);
+
+
+
+//while (c --> 0) {
+  //  console.log(net.next().value)
+   // console.log(cat.next().value);
+//}
+//let test = Fib_even();
+//console.log(test.next().value);
 
 
 
