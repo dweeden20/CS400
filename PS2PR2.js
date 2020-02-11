@@ -6,9 +6,7 @@
 
  */
 
-
-let a = "All I know is something like a bird within her sang ";
-function* Sentence (x) {
+function* Sentence (x = "All I know is something like a bird within her sang ") {
     let to_itr = x.split(' ');
     let len = to_itr.length;
     let i = 0;
@@ -21,8 +19,8 @@ function* Sentence (x) {
 
 }
 
-
-for (word of Sentence(a)){
+console.log("Testing Sentence generator, with no input since it is initialized with a value already:")
+for (word of Sentence()){
     console.log(word)
 }
 

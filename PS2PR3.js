@@ -1,10 +1,9 @@
 /*
-    A function the returns the cube value of the input.
-    And a generator that calls the cube function on each element of an array
+    A cube function the returns the cube value of the input.
+    And a function that calls the cube function on each element of an array
  */
 
 const cube = (x) => (x*x*x);
-
 
 const array_handle = (y) => y.map(cube);
 
