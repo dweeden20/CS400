@@ -1,5 +1,9 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  p Welcome to Dog World!
+  p in the form below enter a dog breed!
+  form(method= 'GET', action='/breed_name')
+    label
+        | breed:
+        input(type = 'text', name = 'breed', value = '')
