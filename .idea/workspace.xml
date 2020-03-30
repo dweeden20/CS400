@@ -68,6 +68,7 @@
       <workItem from="1582321767888" duration="3520000" />
       <workItem from="1585579410503" duration="173000" />
       <workItem from="1585579593168" duration="540000" />
+      <workItem from="1585580161913" duration="127000" />
     </task>
     <servers />
   </component>
@@ -79,6 +80,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="294" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1582225861430" />
+    <state x="4025" y="-350" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585580375459">
+      <screen x="1440" y="-770" width="3840" height="2137" />
+    </state>
+    <state x="4025" y="-350" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1440.877/1440.-770.3840.2137@1440.-770.3840.2137" timestamp="1585580375459" />
     <state x="429" y="143" key="#www" timestamp="1585579527430">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
