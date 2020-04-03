@@ -2,8 +2,8 @@ extends layout
 
 block content
   p Welcome to Dog World!
-  p in the form below enter a dog breed!
-  form(method= 'GET', action='/breed_name')
+  p in the form below enter a breed name:
+  form(method= 'POST', action='/breed_name')
     label
         | breed:
         input(type = 'text', name = 'breed', value = '')

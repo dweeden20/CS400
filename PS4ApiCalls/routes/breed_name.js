@@ -6,15 +6,27 @@ const options = {
     method: 'GET',
 };
 
-const doRequest = async () => {
-    let returnvalRaw = await fetch(options.url);
-    return await returnvalRaw.json();
-};
+
+router.route('/')
+    .get((req,res,next) => {
+        const doRequest = async () => {
+            let returnvalRaw = await fetch(options.url);
+            return await returnvalRaw;
+        };
+    })
+    .get((req, res, next) => {
+        res.render('/',
+            { breed: req.query.breed});
+    });
 
 
-fetch('https://dog.ceo/api/breed/hound/images/random', options)
-    .then(res => res.json())
-    .then(json => console.log(json));
+fetch('https://dog.ceo/api/breed/labrador/images/random', options)
+    .then((res) =>  {
+        return res.json()})
+    .then(data => console.log(data));
+
+
+
 
 
 
