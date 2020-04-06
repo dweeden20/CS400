@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39a32f08-e490-43aa-974b-3c84dbd59bee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PS4ApiCalls/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PS4ApiCalls/.idea/PS4ApiCalls 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PS4ApiCalls/.idea/misc 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PS4ApiCalls/.idea/modules 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PS4ApiCalls/.idea/workspace 2.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +80,24 @@
       <workItem from="1585580161913" duration="127000" />
       <workItem from="1585581206896" duration="49000" />
       <workItem from="1585581257160" duration="46000" />
+      <workItem from="1586198747075" duration="364000" />
     </task>
+    <task id="LOCAL-00001" summary="Can this please works this time :)">
+      <created>1586198892823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586198892823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Can this please works this time :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Can this please works this time :)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="294" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582225861430">
@@ -89,10 +108,15 @@
       <screen x="1440" y="-770" width="3840" height="2137" />
     </state>
     <state x="4025" y="-350" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1440.877/1440.-770.3840.2137@1440.-770.3840.2137" timestamp="1585580375459" />
-    <state x="429" y="143" key="#www" timestamp="1585579527430">
+    <state x="429" y="143" key="#www" timestamp="1586199102975">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="429" y="143" key="#www/0.23.1440.877/1440.-770.3840.2137@0.23.1440.877" timestamp="1585579527430" />
+    <state x="429" y="143" key="#www/0.23.1440.877@0.23.1440.877" timestamp="1586199102975" />
+    <state x="243" y="64" key="CommitChangelistDialog2" timestamp="1586198891117">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="243" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586198891117" />
     <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1582345916776">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
