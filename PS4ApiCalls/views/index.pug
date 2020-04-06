@@ -2,8 +2,13 @@ extends layout
 
 block content
   p Welcome to Dog World!
-  p in the form below enter a breed name:
-  form(method= 'POST', action='/breed_name')
-    label
-        | breed:
-        input(type = 'text', name = 'breed', value = '')
+  p Here is the list of searchable breeds from dog.ceo:
+  p #{JSON.stringify(breeds.message)}
+  p in the form below enter a breed name
+  form(method='GET', action='/breed_name')
+      label
+      |breed:
+      input(type= 'text',name= 'breed', value= '')
+      p Hit enter to search
+      p Note: for some reason the response on the next call doesn't read as JSON and I can't get a value back on subsequent call
+      p It treats the variable as a non JSON and has no property undefined although it should

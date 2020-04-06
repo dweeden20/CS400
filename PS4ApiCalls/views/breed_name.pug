@@ -2,9 +2,4 @@ extends layout
 
 block content
     p Here is a picture of the #{breed} you requested!
-    let breed_image = !{JSON.stringify(breed)}
-   // script(src='/js/breed_name.js').
-
-
-
-
+    p #{JSON(breed_req.message)}

@@ -1,38 +1,23 @@
 const express = require('express');
+const request = require("request");
 const router = express.Router();
-const fetch = require('node-fetch');
 
-const options = {
-    method: 'GET',
-};
-
-
-router.route('/')
-    .get((req,res,next) => {
-        const doRequest = async () => {
-            let returnvalRaw = await fetch(options.url);
-            return await returnvalRaw;
-        };
-    })
-    .get((req, res, next) => {
-        res.render('/',
-            { breed: req.query.breed});
+router.get('/breed_name', function(req, res, next) {
+    let url_ac = 'https://dog.ceo/api/breed/' + req.query.breed + '/images/random';
+    const options = {
+        method: 'GET',
+        url: url_ac,
+        headers: {
+        }
+    };
+    request(options, function (error, response) {
+        if (error) throw new Error(error);
+        console.log(response.body);
+        res.render('breed_name', {breed_req : response.body});
     });
-
-
-fetch('https://dog.ceo/api/breed/labrador/images/random', options)
-    .then((res) =>  {
-        return res.json()})
-    .then(data => console.log(data));
-
-
-
+});
 
 
 
 
 module.exports = router;
-
-
-
-//https://dog.ceo/api/breed/hound/images
