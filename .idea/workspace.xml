@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39a32f08-e490-43aa-974b-3c84dbd59bee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39a32f08-e490-43aa-974b-3c84dbd59bee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +72,7 @@
       <workItem from="1585580161913" duration="127000" />
       <workItem from="1585581206896" duration="49000" />
       <workItem from="1585581257160" duration="46000" />
-      <workItem from="1586198747075" duration="539000" />
+      <workItem from="1586198747075" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="Can this please works this time :)">
       <created>1586198892823</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586199180871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&#10;IDK what happened but node_modules refuses to be ignored">
+      <created>1586199363446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586199363446</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +104,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Can this please works this time :)" />
     <MESSAGE value="Can this please works this time :) pt2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Can this please works this time :) pt2" />
+    <MESSAGE value="&#10;IDK what happened but node_modules refuses to be ignored" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;IDK what happened but node_modules refuses to be ignored" />
   </component>
   <component name="WindowStateProjectService">
     <state x="294" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582225861430">
@@ -115,30 +121,30 @@
     </state>
     <state x="429" y="143" key="#www/0.23.1440.877/1440.-770.3840.2137@0.23.1440.877" timestamp="1585579527430" />
     <state x="429" y="143" key="#www/0.23.1440.877@0.23.1440.877" timestamp="1586199290794" />
-    <state x="243" y="64" key="CommitChangelistDialog2" timestamp="1586199180723">
+    <state x="243" y="64" key="CommitChangelistDialog2" timestamp="1586199363303">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="243" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586199180723" />
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1582345916776">
+    <state x="243" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586199363303" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1586199371003">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582345916776" />
-    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1582345916775">
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586199371003" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1586199371002">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582345916775" />
-    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1582345916775">
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586199371002" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1586199371002">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582345916775" />
-    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1582345916776">
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586199371002" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1586199371002">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582345916776" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586199186621">
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586199371002" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586199366022">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586199186621" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586199366022" />
     <state x="509" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585579468565">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
