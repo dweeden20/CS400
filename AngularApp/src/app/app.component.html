@@ -1,0 +1,33 @@
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+</div>
+
+<div>
+
+  <ul>
+    <li *ngFor="">
+
+    </li>
+  </ul>
+
+</div>
+
+<div *ng>
+  <!-- display selected contact -->
+
+</div>
+
+
+var request = require('request');
+var options = {
+  'method': 'GET',
+  'url': 'https://dog.ceo/api/breeds/list/all',
+  'headers': {
+    }
+  };
+request(options, function (error, response) {
+if (error) throw new Error(error);
+console.log(response.body);
+});
