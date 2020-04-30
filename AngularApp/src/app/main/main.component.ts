@@ -1,14 +1,18 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
+import {FormComponent} from './form/form.component';
+
 
 @Component({
   selector: 'app-main',
-  template: '' + '<h3> main </h3>' + '<app-main-form></app-main-form>' +
-  '<app-main-response></app-main-response>',
+  template: '<h3> main </h3>' + '<app-form></app-form>' +
+  '<app-response></app-response>',
   styleUrls: ['./main.component.css']
 })
 export class MainComponent implements OnInit {
 
-  breed_name: string = '';
+  breed_name: string;
+
+  //getOutputVal(selected: string);
 
   constructor() { }
 

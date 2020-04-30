@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import { BREEDS} from './Breeds-Mock';
-import { BREED} from './Breeds';
+
 
 @Component({
   selector: 'app-root',
@@ -10,11 +9,7 @@ import { BREED} from './Breeds';
 })
 
 export class AppComponent {
-  title = 'CS400 Breed Names';
-  breeds = BREEDS;
-  selectedBreed: BREED;
+  title = 'CS400 Dog Breed Image Finder';
 
-  selectBreed(breed: BREED) {
-    this.selectedBreed = breed;
-  }
+
 }

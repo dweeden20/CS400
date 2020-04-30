@@ -1,1 +1,8 @@
 <p>form works!</p>
+
+<h2>Type a Dog Breed name in the form below! </h2>
+
+
+
+<label>Dog Breed: </label> <input type="'text" [formControl]="breed_name">{{breed_name | json}}
+<button (click)="sendBreedtoParent">Get Image</button>
