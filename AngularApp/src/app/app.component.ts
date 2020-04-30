@@ -4,6 +4,7 @@ import { BREED} from './Breeds';
 
 @Component({
   selector: 'app-root',
+   // template: '<app-form></app-form>',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })

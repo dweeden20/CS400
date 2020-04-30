@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39a32f08-e490-43aa-974b-3c84dbd59bee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CS400" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5HE2x4OgZEFxeHfNGsN2C6oG0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Node.js.www">
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$/PS4ApiCalls">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a32f08-e490-43aa-974b-3c84dbd59bee" name="Default Changelist" comment="" />
+      <created>1582225419326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582225419326</updated>
+      <workItem from="1582225421396" duration="2259000" />
+      <workItem from="1582231675928" duration="2846000" />
+      <workItem from="1582321767888" duration="3520000" />
+      <workItem from="1585579410503" duration="173000" />
+      <workItem from="1585579593168" duration="540000" />
+      <workItem from="1585580161913" duration="127000" />
+      <workItem from="1585581206896" duration="49000" />
+      <workItem from="1585581257160" duration="46000" />
+      <workItem from="1586198747075" duration="619000" />
+      <workItem from="1586287243728" duration="138000" />
+      <workItem from="1588009270444" duration="253000" />
+    </task>
+    <task id="LOCAL-00001" summary="Can this please works this time :)">
+      <created>1586198892823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586198892823</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Can this please works this time :) pt2">
+      <created>1586199180871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586199180871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;IDK what happened but node_modules refuses to be ignored">
+      <created>1586199363446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586199363446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed">
+      <created>1586287292583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586287292583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Can this please works this time :)" />
+    <MESSAGE value="Can this please works this time :) pt2" />
+    <MESSAGE value="&#10;IDK what happened but node_modules refuses to be ignored" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582225861430">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="294" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1582225861430" />
+    <state x="4025" y="-350" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585580375459">
+      <screen x="1440" y="-770" width="3840" height="2137" />
+    </state>
+    <state x="4025" y="-350" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1440.877/1440.-770.3840.2137@1440.-770.3840.2137" timestamp="1585580375459" />
+    <state x="429" y="143" key="#www" timestamp="1586199290794">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="429" y="143" key="#www/0.23.1440.877/1440.-770.3840.2137@0.23.1440.877" timestamp="1585579527430" />
+    <state x="429" y="143" key="#www/0.23.1440.877@0.23.1440.877" timestamp="1586199290794" />
+    <state x="243" y="64" key="CommitChangelistDialog2" timestamp="1586287288915">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="243" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586287288915" />
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1586199371003">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586199371003" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1586199371002">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586199371002" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1586199371002">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586199371002" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1586199371002">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586199371002" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586287335090">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586287335090" />
+    <state x="509" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585579468565">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="509" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-770.3840.2137@0.23.1440.877" timestamp="1585579468565" />
+  </component>
+</project>
